@@ -31,7 +31,7 @@ const FAQ = () => {
     },
     {
       question: "Posso personalizar com a identidade do meu salão?",
-      answer: "Sim! O sistema fica com o nome do seu salão, suas cores (quando disponível) e você ganha um link personalizado tipo salonclick.com.br/seusalao. Seus clientes vão achar que você tem um sistema exclusivo!"
+      answer: "Sim! O sistema fica com o nome do seu salão, suas cores (quando disponível) e você ganha um link personalizado tipo seusalão.salonclick.com.br. Seus clientes vão achar que você tem um sistema exclusivo!"
     },
     {
       question: "É seguro para dados dos meus clientes?",

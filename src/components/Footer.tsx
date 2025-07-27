@@ -46,7 +46,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2">
                 <Phone className="w-4 h-4 text-purple-400" />
-                <span className="text-gray-400">(11) 99999-9999</span>
+                <span className="text-gray-400">(81) 99676-3099</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-purple-400" />
@@ -88,10 +88,6 @@ const Footer = () => {
             <p className="text-gray-500 text-sm mb-4">
               Seus dados estão protegidos
             </p>
-            <div className="flex justify-center items-center space-x-8 opacity-60">
-              <div className="bg-gray-800 px-4 py-2 rounded text-xs">🔒 SSL 256-bit</div>
-              <div className="bg-gray-800 px-4 py-2 rounded text-xs">📋 LGPD</div>
-              <div className="bg-gray-800 px-4 py-2 rounded text-xs">🛡️ Segurança Bancária</div>
             </div>
           </div>
         </div>

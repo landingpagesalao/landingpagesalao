@@ -49,7 +49,7 @@ const Features = () => {
     {
       icon: <Globe className="w-8 h-8 text-yellow-500" />,
       title: "Domínio personalizado",
-      description: "seuslao.salonclick.com.br - link exclusivo e profissional"
+      description: "seusalao.salonclick.com.br - link exclusivo e profissional"
     },
     {
       icon: <Wrench className="w-8 h-8 text-yellow-500" />,

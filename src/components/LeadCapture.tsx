@@ -141,7 +141,7 @@ const LeadCapture = () => {
                   value={formData.whatsapp}
                   onChange={handleChange}
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500/50 focus:border-purple-400/50"
-                  placeholder="(11) 99999-9999"
+                  placeholder="(81) 99676-3099"
                 />
               </div>
 

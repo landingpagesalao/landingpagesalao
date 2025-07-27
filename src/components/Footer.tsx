@@ -88,7 +88,6 @@ const Footer = () => {
             <p className="text-gray-500 text-sm mb-4">
               Seus dados estão protegidos
             </p>
-            </div>
           </div>
         </div>
       </div>

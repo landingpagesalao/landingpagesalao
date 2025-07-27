@@ -74,7 +74,7 @@ const LeadCapture = () => {
               <ul className="space-y-3">
                 <li className="flex items-center space-x-3">
                   <CheckCircle className="w-5 h-5 text-green-400" />
-                  <span>Como atrair mais clientes sem gastar com propaganda</span>
+                  <span>Como atrair mais clientes</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <CheckCircle className="w-5 h-5 text-green-400" />
